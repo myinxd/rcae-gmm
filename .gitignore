@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# custom
+./demo-mnist/log_mnist128
+./demo-mnist/MNIST_data
+./demo-mnist/rcae_mnist
+./demo-mnist/sim_imgs
+./demo-mnist/notebook-rcae13-mnist-gmm-bkp.ipynb
