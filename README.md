@@ -29,7 +29,7 @@ Before constructing a RCAE net, the pakcage should be installed. Here is the ins
 $ cd rcag-gmm
 $ pip3 install --user .
 ```
-Detailed usage of our rcae-gmm package is demonstrated in [demo]((https://github.com/myinxd/rcae_gmm/blob/master/demo/) by jupyter notebooks.
+Detailed usage of our rcae-gmm package is demonstrated in [demo](https://github.com/myinxd/rcae_gmm/blob/master/demo/) by jupyter notebooks.
 
 
 ## Contributor
