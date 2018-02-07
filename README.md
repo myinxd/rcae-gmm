@@ -24,7 +24,13 @@ Some python packages should be installed before applying the nets, which are lis
 Also, [CUDA](http://develop.nvidia.org/cuda) is required if you want to run the codes by GPU, a Chinese [guide](http://www.mazhixian.me/2017/12/13/Install-tensorflow-with-gpu-library-CUDA-on-Ubuntu-16-04-x64/) for CUDA installation on Ubuntu 16.04 is provided.
 
 ## Usage
-To generate new FRI or FRII radio galaxies, a jupyter notebook is provide as a [demo](). Methods for save and restore TensorFlow session and graph is also in the [utils](). Please see my blog for details.
+Before constructing a RCAE net, the pakcage should be installed. Here is the installation,
+```sh
+$ cd rcag-gmm
+$ pip3 install --user .
+```
+Detailed usage of our rcae-gmm package is demonstrated in [demo]((https://github.com/myinxd/rcae_gmm/blob/master/demo/) by jupyter notebooks.
+
 
 ## Contributor
 - Zhixian MA <`zx at mazhixian.me`>
