@@ -9,8 +9,8 @@ In summary, we provide classes for the RCAE network construction as well as some
 
 Notebooks are provide as demos for the user to construct their own residual convolutional networks, which are 
 - [notebook-rcae13-mnist](https://github.com/myinxd/rcae-gmm/blob/master/demo-mnist/notebook-rcae13-mnist.ipynb): A 13-layer (6 + 6 + 1: encoder+decoder+code_layer) RCAE for mnist;
-- [notebook-rcae13-mnist-restore](): Restore the trained network
-- [notebook-rcae13-mnist-gmm.ipynb](): Generate new radio galaxies
+- [notebook-rcae13-mnist-restore](https://github.com/myinxd/rcae-gmm/blob/master/demo-mnist/notebook-rcae13-mnist-restore.ipynb): Restore the trained network
+- [notebook-rcae13-mnist-gmm.ipynb](https://github.com/myinxd/rcae-gmm/blob/master/demo-mnist/notebook-rcae13-mnist.ipynb): Generate new handwritting digits.
 
 ## Requirements
 Some python packages should be installed before applying the nets, which are listed as follows,
